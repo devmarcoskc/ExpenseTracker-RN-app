@@ -1,0 +1,1 @@
+Expense Tracker é um app no qual você pode gerenciar suas todas as suas despesas financeiras.
